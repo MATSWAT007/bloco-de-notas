@@ -1,0 +1,7 @@
+passo 1
+1-quando o primeiro botão verde com descrição "fatos da ciencia" é prescionado ocorre uma transição de tela
+2-após a transição aparece informçãos sobre ciencia basica
+3-nesta tela pode conter um botão de voltar após prescionar voltamos para a tela de home
+4-o segundo botão sobre fatos da matematica´quando prescionado troca de tela
+5-após entrar na tela de fatos da matematica aparecem informações sobre matematica basica
+6-nesta tela consta um botão para voltar para a tela inicial
